@@ -1,7 +1,7 @@
 # Umit_Family_Recipes
 
 - Pastas (TODO)
-	-[base](./pizzaz/base.md)
+	-[base](./pizzas/base.md)
 - Sauces (TODO)
 - CHeese (TODO)
 
